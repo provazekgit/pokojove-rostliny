@@ -1,0 +1,10 @@
+Ficus benjamina	Stojí u okna, nemá rád průvan	2025-10-04	2025-11-01	5
+Tulipán na prodej 1		2025-11-03	2025-11-03	14
+Tulipán na prodej 3		2025-11-03	2025-11-03	14
+Tulipán na prodej 4		2025-11-03	2025-11-03	14
+Tulipán na prodej 5		2025-11-03	2025-11-03	14
+Tulipán na prodej 6		2025-11-03	2025-11-03	14
+Tulipán na prodej 7		2025-11-03	2025-11-03	14
+Tulipán na prodej 8		2025-11-03	2025-11-03	14
+Tulipán na prodej 9		2025-11-03	2025-11-03	14
+Tulipán na prodej 10		2025-11-03	2025-11-03	14
