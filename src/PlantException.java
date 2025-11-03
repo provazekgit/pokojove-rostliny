@@ -11,7 +11,7 @@ public class PlantException extends Exception {
         super(message);  // předá text rodičovské třídě Exception
     }
 
-    // Druhý konstruktor – kdybychom chtěli připojit i původní chybu (méně časté)
+    // Druhý konstruktor – umožní připojit i původní chybu (nepovinné)
     public PlantException(String message, Throwable cause) {
         super(message, cause);
     }
